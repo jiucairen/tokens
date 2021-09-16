@@ -1,0 +1,11 @@
+{
+ "name": "Monster Island",
+ "website": "http://monsterisland.online",
+ "description": "Monster to be a BSC chain game, you can build a strong team and fight in fierce battles. After winning each battle, get token rewards",
+ "explorer":"https://www.bscscan.com/address/0xcefc95dd0279aa42b4acc405049d0feaa53f4566",
+ "type": "BSC20",
+ "symbol": "MI",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xCEfc95dd0279aA42B4acc405049D0FEAa53F4566"
+}
